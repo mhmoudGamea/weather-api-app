@@ -2,15 +2,12 @@
 
 A new Flutter project.
 
-## Getting Started
+in this app i learn 
 
-This project is a starting point for a Flutter application.
+- how to deal with apis, what's api consist of what is json data that is provided by this api and how to get to each key in it
 
-A few resources to get you started if this is your first Flutter project:
+- i learn how to use named, factory constructor and optional parameters
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- i learn what is the meaning of (liffting the state up)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- practice on error handling, and how to show the corresponding image due to response status code
